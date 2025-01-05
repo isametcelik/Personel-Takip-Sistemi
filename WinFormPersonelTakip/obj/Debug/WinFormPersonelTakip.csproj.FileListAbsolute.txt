@@ -1,0 +1,10 @@
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\bin\Debug\WinFormPersonelTakip.exe.config
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\bin\Debug\WinFormPersonelTakip.exe
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\bin\Debug\WinFormPersonelTakip.pdb
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.Form1.resources
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.Properties.Resources.resources
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.exe
+C:\Users\EXCALIBUR\Desktop\NesneTabanlı\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.pdb
